@@ -1,4 +1,5 @@
 *.html
+dummy_ids.csv
 
 # History files
 .Rhistory
