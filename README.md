@@ -6,4 +6,4 @@ This example depicts common double-majors we typically see grouped together, col
 
 In its current format, it's a rather cluttered visualization that would be better served by paring down the data set and focusing on the heaviest hitters. 
 
-![r chord diagram](r_chord_diagram_static.png)
+![r chord diagram](chord_diagram.png)

@@ -1,5 +1,4 @@
-*.html
-dummy_ids.csv
+enrollment.csv
 
 # History files
 .Rhistory
